@@ -9,12 +9,14 @@
   - expanding documentation and code comments
   - improving readability and maintainablity
   - breaking big pieces of code down into smaller functions
+  - cleaning data and increasing consistency
   
 - As a teammate, I enjoy:
   - mentoring, supporting, and encouraging teammates
   - receiving advice, feedback, and guidance
   - learning and teaching via pair programming, code reviews
-  - collaborating to solve problems and build useful products or features.
+  - collaborating to solve problems and build useful products or features
+  - picking my teammates' brains and understanding their thought process
   
 - I am trying to update my repository to showcase my growth in the last couple of years! (WIP)
 
